@@ -9,5 +9,6 @@ A very basic Newsletter SignUp Page built along with **MAILCHIMP**🤩 that make
 
 - Be sure to __npm install node_modules__
 - Replace **YOUR_API_KEY** with API key generated on Mailchimp.
+- Replace **LIST_ID** with the unique list created on Mailchimp.
 
 **CHECKOUT DEMO :** https://lit-temple-12371.herokuapp.com/
